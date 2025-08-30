@@ -1,0 +1,3 @@
+{
+  "id":"weather","name":"Weather","version":"1.0.0","bin":"weather.bin","desc":"Weather helper"
+}
