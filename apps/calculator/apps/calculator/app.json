@@ -1,0 +1,7 @@
+{
+  "id": "calculator",
+  "name": "Calculator",
+  "version": "1.0.0",
+  "bin": "calculator.bin",
+  "desc": "Lightweight calculator placeholder"
+}
